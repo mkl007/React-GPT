@@ -6,3 +6,11 @@ export const ReactGPT = () => {
     <RouterProvider router={router}/>
   )
 }
+
+// export const ReactGPT = () => {
+//   return (
+//     <h1 className="text-3xl font-bold underline border-2 border-red-500">
+//       Hello world!
+//     </h1>
+//   )
+// }
